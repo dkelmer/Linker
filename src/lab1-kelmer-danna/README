@@ -1,0 +1,4 @@
+1. compilation command: javac twoPassLinker.java
+2. run command: java twoPassLinker FILENAME
+3. put both twoPassLinker.java and input files in same directory and run from there
+4. twoPassLinker.java - only source code file for running the program
